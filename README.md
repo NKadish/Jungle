@@ -4,9 +4,10 @@ Welcome to Jungle! A mini e-commerce app built with rails 4.2. The app allows fo
 
 ## Screenshots
 
-!["Default view"]()
-!["New interview"]()
-!["Delete confirmation"]()
+!["Products page"](https://github.com/NKadish/Jungle/blob/master/docs/products-page.png?raw=true)
+!["Product page"](https://github.com/NKadish/Jungle/blob/master/docs/product-page.png?raw=true)
+!["Admin products"](https://github.com/NKadish/Jungle/blob/master/docs/admin-products.png?raw=true)
+!["Cart"](https://github.com/NKadish/Jungle/blob/master/docs/cart.png?raw=true)
 
 ## Setup
 
