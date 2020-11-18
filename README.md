@@ -1,7 +1,12 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+Welcome to Jungle! A mini e-commerce app built with rails 4.2. The app allows for people to sign up, sign in, add items to cart, view items, checkout and view their order. Admins can add categories of items, add items and view all of the items, removing them as well. 
 
+## Screenshots
+
+!["Default view"]()
+!["New interview"]()
+!["Delete confirmation"]()
 
 ## Setup
 
@@ -16,12 +21,11 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Stripe Testing
 
-Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
-
-More information in their docs: <https://stripe.com/docs/testing#cards>
+The stripe docs for card testing: <https://stripe.com/docs/testing#cards>
 
 ## Dependencies
 
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+* Bcrypt
